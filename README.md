@@ -18,8 +18,11 @@ I design and build backend systems using Python and FastAPI, with a focus on int
 ## 🛠️ Tech Stack
 
 **Core:** Python, FastAPI, PostgreSQL, SQLAlchemy
+
 **Machine Learning:** TensorFlow, Scikit-learn, OpenCV, Pandas, NumPy
+
 **Cloud & Tools:** Microsoft Azure, Docker, Git, GitHub, Selenium
+
 **Other Languages:** Java, C#
 
 ---
