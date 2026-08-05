@@ -1,4 +1,4 @@
-# Hi, I'm Suhasini Cherukuri 👋
+# Hi, I'm Suhasini Cherukuri 
 
 Master’s student in Computer Science at Victoria University of Wellington, New Zealand.
 I design and build backend systems using Python and FastAPI, with a focus on integrating machine learning models into real-world applications.
